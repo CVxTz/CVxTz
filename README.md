@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Deep learning applications to image processing, NLP and audio processing.
+- 🌱 I’m currently learning Javascript, React and Devops.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cvxtz)
