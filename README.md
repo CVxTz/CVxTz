@@ -25,5 +25,10 @@ Here are some ideas to get you started:
  - [Medical image segmentation](https://github.com/CVxTz/medical_image_segmentation)
  - [Music genre classification : GRU vs Transformer](https://github.com/CVxTz/music_genre_classification)
  - [Know What You Don’t Know: Getting Reliable Confidence Scores When Unsure of a Prediction](https://github.com/CVxTz/learning_to_abstain)
+ 
+#### Social media:
+
+ - Medium:https://medium.com/@CVxTz
+ - Linkedin: https://www.linkedin.com/in/mansar/
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cvxtz)
