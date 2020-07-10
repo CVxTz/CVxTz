@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Deep learning applications to image processing, NLP and audio processing.
 - 🌱 I’m currently learning Javascript, React and Devops.
 
+
+#### Sample projects:
+
+ - [Building a Deep Image Search Engine using tf.Keras](https://github.com/CVxTz/image_search_engine)
+ - [Medical image segmentation](https://github.com/CVxTz/medical_image_segmentation)
+ - [Music genre classification : GRU vs Transformer](https://github.com/CVxTz/music_genre_classification)
+ - [Know What You Don’t Know: Getting Reliable Confidence Scores When Unsure of a Prediction](https://github.com/CVxTz/learning_to_abstain)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=cvxtz)
