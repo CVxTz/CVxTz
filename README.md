@@ -30,5 +30,3 @@ Here are some ideas to get you started:
 
  - Medium: https://medium.com/@CVxTz
  - Linkedin: https://www.linkedin.com/in/mansar/
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=cvxtz)
