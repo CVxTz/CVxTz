@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Deep learning applied to image processing, NLP and audio processing.
-- 🌱 I’m currently learning Javascript, React and Devops.
+- 🌱 I’m currently learning Devops.
 
 
 #### Sample projects:
