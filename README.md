@@ -1,4 +1,3 @@
-# Youness Mansar
 
 Hello ! I am a data scientist with extensive experience in building and deploying machine learning models, particularly in the fields of natural language processing (NLP) and computer vision.  Passionate about leveraging the power of large language models (LLMs) and generative AI to solve complex real-world problems. Proven ability to lead projects, mentor junior team members, and deliver impactful results.
 
