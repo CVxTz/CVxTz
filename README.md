@@ -14,8 +14,6 @@ My recent writing explores practical applications of LLMs and related technologi
 * **[An Agentic Approach to Textual Data Extraction Using LLMs and LangGraph](https://towardsdatascience.com/a-simple-llm-agent-deployment-tutorial-b468d0a98bc5?sk=96854576b44c3c2cd3bdad7c8045eb7e)**
 * **[How Much Data Do You Need to Fine-Tune Gemini?](https://medium.com/towards-data-science/how-much-data-do-you-need-to-fine-tune-gemini-adbfb361a1fc?sk=89a53e2d2e4cff84da905c3b643e9509)**
 
-
-This portfolio showcases a diverse range of projects and publications, highlighting my dedication to continuous learning and innovation within the ever-evolving field of AI.
  
 #### Social media:
 
