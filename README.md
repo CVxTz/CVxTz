@@ -10,8 +10,8 @@ My expertise includes:
 
 My recent writing explores practical applications of LLMs and related technologies, detailing methodologies and code examples,  published in Towards Data Science:
 
-* **[A Simple LLM Agent Deployment Tutorial](https://towardsdatascience.com/a-simple-llm-agent-deployment-tutorial-b468d0a98bc5?sk=96854576b44c3c2cd3bdad7c8045eb7e)**
-* **[An Agentic Approach to Textual Data Extraction Using LLMs and LangGraph](https://towardsdatascience.com/a-simple-llm-agent-deployment-tutorial-b468d0a98bc5?sk=96854576b44c3c2cd3bdad7c8045eb7e)**
+* **[[A Simple LLM Agent Deployment Tutorial](https://towardsdatascience.com/a-simple-llm-agent-deployment-tutorial-b468d0a98bc5?sk=96854576b44c3c2cd3bdad7c8045eb7e)](https://medium.com/data-science/a-simple-llm-agent-deployment-tutorial-b468d0a98bc5)**
+* **[[An Agentic Approach to Textual Data Extraction Using LLMs and LangGraph](https://towardsdatascience.com/a-simple-llm-agent-deployment-tutorial-b468d0a98bc5?sk=96854576b44c3c2cd3bdad7c8045eb7e)](https://medium.com/data-science/an-agentic-approach-to-textual-data-extraction-using-llms-and-langgraph-8abb12af16f2)**
 * **[How Much Data Do You Need to Fine-Tune Gemini?](https://medium.com/towards-data-science/how-much-data-do-you-need-to-fine-tune-gemini-adbfb361a1fc?sk=89a53e2d2e4cff84da905c3b643e9509)**
 
  
